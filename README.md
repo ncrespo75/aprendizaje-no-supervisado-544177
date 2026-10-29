@@ -35,6 +35,7 @@ Each session folder has the theory notebook (`fundamentos.ipynb`), the lab you c
 - `extra/mnist/compresion_mnist.ipynb`: Compressing MNIST digits with PCA
 - `extra/eigenfaces/eigenfaces.ipynb`: Eigenfaces and progressive face reconstruction (downloads ~200 MB the first time)
 - `extra/digits/pca_kmeans_digits.ipynb`: PCA before K-Means on handwritten digits, evaluated with the silhouette and a crosstab against the real digit
+- `extra/mascotas-virtuales/index.html`: Standalone virtual-pet demo; open it in a browser to feed, play with, and customize a pet
 
 **Environment**
 - `pyproject.toml` / `uv.lock`: Project dependencies and the exact pinned versions
